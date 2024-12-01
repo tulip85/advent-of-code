@@ -1,1 +1,1 @@
-input = open("Day1/input1.in")
+with open("input1.in") as input_file:
